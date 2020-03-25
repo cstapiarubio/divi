@@ -1,0 +1,24 @@
+.img_back{
+background-image: linear-gradient(
+      rgba(100,112,199), 
+      rgba(17, 93, 235, 0.3)
+    ),
+ url(https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/business-14.jpg); 
+height: 600px; 
+width: 100%; 
+}
+
+.article{
+    margin-top: 4%;
+
+}
+
+.form{
+    background-color: #5454e4;
+}
+
+.form2{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/business-01.jpg); 
+    height: 600px; 
+    width: 100%; 
+    }
